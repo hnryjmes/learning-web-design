@@ -346,3 +346,54 @@ Telephone links
 
 ### 7 Adding images
 
+First, a word on image formats
+
+The img element
+
+Providing the Location with src
+
+Take Advantage of Caching
+
+Providing Alternative Text with alt
+
+Providing the Dimensions with width and height
+
+"These attributes have become less useful in the age of modern web development."
+
+"They should never be used to resize an image (use your image-editing program or CSS for that), and they should be omitted entirely when you're using one of the responsive image techniques introduced later in this chapter."
+
+Adding SVG images
+
+Embedded with the img Element
+
+Inline in the HTML Source
+
+Embedded with the object Element
+
+Used as a Background Image with CSS
+
+SVG Fallbacks
+
+Responsive image markup
+
+How It Works
+
+"In short, responsive images work this way: you provide multiple images, sized or cropped for different screen sizes, and the browser picks the most appropriate one based on what it knows about the current viewing environment."
+
+High-Density Displays (x-descriptor)
+
+"Reference pixels are also known as points (PT) in iOS, Device Independent Pixels (DP or DiP) in Android, or CSS pixels because they are the unit of measurement we use in style sheets."
+
+Variable-Width Images (w-descriptor)
+
+Art Direction (picture element)
+
+"The srcset attribute supplies the URL for the image to use if the media query is a match."
+
+Alternative Image Formats (type Attribute)
+
+Browser Support
+
+Responsive Images Summary
+
+### 8 Table markup
