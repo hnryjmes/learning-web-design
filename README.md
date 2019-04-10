@@ -312,3 +312,37 @@ When to Escape Characters
 
 ### 6 Adding links
 
+The href attribute
+
+Absolute URLs
+
+Relative URLs
+
+Linking to pages on the web
+
+Linking within your own site
+
+Linking Within a Directory
+
+Linking to a Lower Directory
+
+Linking to a Higher Directory
+
+Linking with Site Root Relative Pathnames
+
+Writing Pathnames to Images
+
+Linking to a Specific Point in a Page
+
+Linking to a Fragment in Another Document
+
+Targeting a new browser window
+
+Pop-up Windows
+
+Mail links
+
+Telephone links
+
+### 7 Adding images
+
