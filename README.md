@@ -397,3 +397,34 @@ Browser Support
 Responsive Images Summary
 
 ### 8 Table markup
+
+How to use tables
+
+Minimal table structure
+
+Table headers
+
+Spanning cells
+
+Column Spans
+
+Row Spans
+
+Space in and Between Cells
+
+Table Accessibility
+
+Describing Table Content
+
+Connecting Cells and Headers
+
+Row and column groups
+
+Row Group Elements
+
+Column Group Elements
+
+Wrapping up tables
+
+### 9 Forms
+
