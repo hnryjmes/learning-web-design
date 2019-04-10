@@ -501,3 +501,38 @@ Clarify primary and secondary actions.
 Styling Forms
 
 ### 10 Embedded media
+
+Window-in-a-window (iframe)
+
+Multipurpose embedder (object)
+
+Farewell Flash
+
+Video and audio
+
+The Good News and the Bad News
+
+How Media Formats Work
+
+Server Setup
+
+Adding Video to a Page
+
+Video and Audio Encoding Tools
+
+Flash Video Fallback
+
+Adding Audio to a Page
+
+Adding Text Tracks
+
+Canvas
+
+The canvas Element
+
+Drawing with JavaScript
+
+## 3 CSS for presentation
+
+### 11 Introducing Cascading Style Sheets
+
