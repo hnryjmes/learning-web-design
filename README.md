@@ -20,6 +20,8 @@
 
 "It also includes a chapter on SVG graphics, which offer great advantages for responsive and interaction design."
 
+## 1 Getting started
+
 ### 1 Getting started in web design
 
 Where do I start?
@@ -145,4 +147,44 @@ Adding Behaviors with JavaScript
 Putting it all together
 
 ### 3 Some big concepts you need to know
+
+A multitude of devices
+
+Mobile Web?
+
+Sticking with the standards
+
+Progressive enhancement
+
+"When designing with progressive enhancement, you start with a baseline experience that makes the content or core functionality available to even the most rudimentary browsers or assistive devices."
+
+Authoring strategy
+
+"When an HTML document is written in logical order and its elements are marked up in a meaningful way, it will be usable on the widest range of browsing environments, including the oldest browsers, future browsers, and mobile and assistive devices."
+
+Styling strategy
+
+Scripting strategy
+
+Responsive web design
+
+M-dot Sites
+
+One web for all (accessibility)
+
+Vision impairment
+
+Mobility impairment
+
+Auditory impairment
+
+Cognitive impairment
+
+US Government Accessibility Requirements: Section 508
+
+The need for speed (site performance)
+
+## 2 HTML for structure
+
+### 4 Creating a simple page (HTML overview)
 
