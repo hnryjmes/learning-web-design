@@ -234,3 +234,81 @@ Validating your documents
 
 ### 5 Marking up text
 
+Paragraphs
+
+Headings
+
+Thematic breaks (horizontal rule)
+
+Lists
+
+Unordered Lists
+
+Ordered Lists
+
+Description Lists
+
+More content elements
+
+Long Quotations
+
+Preformatted Text
+
+Figures
+
+Organizing page content
+
+HTML5 Support in Internet Explorer
+
+Main Content
+
+Headers and Footers
+
+Headers
+
+Footers
+
+Sections and Articles
+
+Aside (Sidebars)
+
+Navigation
+
+Addresses
+
+Document Outlines
+
+The inline element roundup
+
+Text-Level (Inline) Elements
+
+Nesting Elements
+
+Adding Breaks
+
+Accommodating Non-Western Languages
+
+Generic elements (div and span)
+
+Divide It Up with a div
+
+Define a Phrase with span
+
+id and class Attributes
+
+Identify and Classify All Elements
+
+Improving accessibility with ARIA
+
+Roles
+
+Structured Data in a Nutshell
+
+States and Properties
+
+Character escapes
+
+When to Escape Characters
+
+### 6 Adding links
+
