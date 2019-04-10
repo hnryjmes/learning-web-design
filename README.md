@@ -428,3 +428,76 @@ Wrapping up tables
 
 ### 9 Forms
 
+How forms work
+
+From Data Entry to Response
+
+A Word About Encoding
+
+The form element
+
+The action Attribute
+
+The method Attribute
+
+Variables and content
+
+The name Attribute
+
+Naming Your Variables
+
+The great form control roundup
+
+Text-Entry Controls
+
+disabled and readonly
+
+Specialized Text-Entry Fields
+
+Drop-Down Suggestions
+
+Submit and Reset Buttons
+
+Radio and Checkbox Buttons
+
+Menus
+
+File Selection Control
+
+Hidden Controls
+
+Date and Time Controls
+
+"HTML5 introduced six new input types that make date and time selection widgets part of a browser's standard built-in display capabilities, just as they can display checkboxes, pop-up menus, and other widgets today."
+
+Numerical Inputs
+
+Color Selector
+
+A Few More Form Elements
+
+Form accessibility features
+
+Labels
+
+fieldset and legend
+
+DIY Form Widgets
+
+Form layout and design
+
+Usable Forms
+
+Avoid unnecessary questions.
+
+Consider the impact of label placement.
+
+Choose input types carefully.
+
+Group related inputs.
+
+Clarify primary and secondary actions.
+
+Styling Forms
+
+### 10 Embedded media
