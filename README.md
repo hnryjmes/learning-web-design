@@ -570,3 +570,75 @@ Moving forward with CSS
 
 ### 12 Formatting text
 
+Basic font properties
+
+A Word About Property Listings
+
+Specifying the Font Name
+
+Say Hello to Web Fonts
+
+Specifying Font Size
+
+"I'm going to cut to the chase and tell you that, despite all these options, the preferred values for font-size in contemporary web design are the relative length units em and rem, as well as percentage values."
+
+Font Weight (Boldness)
+
+Font Style (Italics)
+
+Font Variant in CSS2.1 (Small Caps)
+
+Font Stretch (Condensed and Extended)
+
+The Shortcut font Property
+
+Advanced typography with CSS3
+
+Font Variant in CSS3
+
+Other CSS3 Properties
+
+Changing text color
+
+A few more selector types
+
+Descendant Selectors
+
+ID Selectors
+
+Other Contextual Selectors
+
+Class Selectors
+
+Specificity 101
+
+The Universal Selector
+
+Text line adjustments
+
+Line Height
+
+Indents
+
+Horizontal Text Alignment
+
+Underlines and other “decorations”
+
+Changing capitalization
+
+Spaced out
+
+Text shadow
+
+The Other Text Properties
+
+Changing list bullets and numbers
+
+Choosing a Marker
+
+Marker Position
+
+Make Your Own Bullets
+
+### 13 Colors and backgrounds
+
