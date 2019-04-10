@@ -188,3 +188,49 @@ The need for speed (site performance)
 
 ### 4 Creating a simple page (HTML overview)
 
+A web page, step-by-step
+
+Launch a text editor
+
+Creating a New Document in Notepad (Windows)
+
+Creating a New Document in TextEdit (macOS)
+
+Step 1: Start with content
+
+Naming Conventions
+
+Learning from Step 1
+
+Step 2: Give the HTML document structure
+
+The Anatomy of an HTML Element
+
+Basic Document Structure
+
+Introducing Unicode
+
+Step 3: Identify text elements
+
+Mark It Up Semantically
+
+"Your job when marking up content is to choose the HTML element that provides the most meaningful description of the content at hand."
+
+Block and Inline Elements
+
+Default Styles
+
+Step 4: Add an image
+
+Empty Elements
+
+Attributes
+
+Step 5: Change the look with a style sheet
+
+When good pages go bad
+
+Validating your documents
+
+### 5 Marking up text
+
