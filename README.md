@@ -536,3 +536,37 @@ Drawing with JavaScript
 
 ### 11 Introducing Cascading Style Sheets
 
+The benefits of CSS
+
+The Power of CSS
+
+How style sheets work
+
+The big concepts
+
+Inheritance
+
+Conflicting Styles: The Cascade
+
+Assigning Importance
+
+"Within a style sheet, if there are conflicts within style rules of identical weight, whichever one comes last in the list “wins.”"
+
+The Box Model
+
+Grouped Selectors
+
+CSS units of measurement
+
+CSS Units
+
+Absolute Units
+
+Relative Units
+
+Developer tools right in your browser
+
+Moving forward with CSS
+
+### 12 Formatting text
+
