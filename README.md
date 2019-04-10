@@ -109,3 +109,40 @@ What you've learned
 Test yourself
 
 ### 2 How the web works
+
+The internet versus the web
+
+A Brief History of the Web
+
+Serving up your information
+
+A word about browsers
+
+Browser Rendering Engines
+
+Web page addresses (URLs)
+
+The Parts of a URL
+
+Simplified URLs
+
+Skipping the protocol
+
+Pointing to default files
+
+The anatomy of a web page
+
+HTML Documents
+
+A Quick Introduction to HTML Markup
+
+Where Are the Pictures?
+
+Adding a Little Style
+
+Adding Behaviors with JavaScript
+
+Putting it all together
+
+### 3 Some big concepts you need to know
+
