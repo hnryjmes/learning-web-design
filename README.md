@@ -642,3 +642,82 @@ Make Your Own Bullets
 
 ### 13 Colors and backgrounds
 
+Specifying color values
+
+Color Names
+
+RGB Color Values
+
+RGBa Color
+
+HSL Color
+
+Summing Up Color Values
+
+Foreground color
+
+Background color
+
+Clipping the background
+
+Playing with opacity
+
+Pseudo-class selectors
+
+Link Pseudo-Classes
+
+User Action Pseudo-Classes
+
+Hover on Touch Devices
+
+Other Pseudo-Class Selectors
+
+More CSS3 Pseudo-Classes
+
+Pseudo-Element Selectors
+
+First Letter and Line
+
+Generated Content with ::before and ::after
+
+Attribute selectors
+
+Background images
+
+Adding a Background Image
+
+Background Repeating
+
+Background Position
+
+Background Position Origin
+
+Background Attachment
+
+Background Size
+
+The shorthand background property
+
+Multiple Backgrounds
+
+Like a rainbow (gradients)
+
+Linear Gradients
+
+Radial Gradients
+
+Repeating Gradients
+
+Browser Support and Vendor Prefixes
+
+Vendor Prefixes
+
+Designing Gradients
+
+Using the link Element
+
+Importing with @import
+
+Using Modular Style Sheets
+
+### 14 Thinking inside the box
