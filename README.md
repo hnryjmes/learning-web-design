@@ -806,3 +806,47 @@ Stacking Order
 
 ### 16 CSS layout with flexbox and grid
 
+Flexible boxes with CSS flexbox
+
+"The defining aspect of flex layout is the ability to make the flex items “flex,” altering their width/height to fill the available space in the main dimension."
+
+Multicolumn Layout
+
+Setting Up a Flexbox Container
+
+Flexbox Resources
+
+Controlling the “Flow” Within the Container
+
+Controlling the Alignment of Flex Items in the Container
+
+Determining How Items “Flex” in the Container
+
+Absolute Versus Relative Flex
+
+Changing the Order of Flex Items
+
+Browser Support for Flexbox
+
+CSS grid layout
+
+The Obligatory Talk About Browser Support
+
+How Grid Layout Works
+
+Grid Terminology
+
+Declaring Grid Display
+
+Setting Up the Grid
+
+Placing Grid Items
+
+Implicit Grid Behavior
+
+Spacing and Alignment
+
+Online Grid Resources
+
+### 17 Responsive web design
+
