@@ -1174,3 +1174,50 @@ Optimization Tools
 
 ### 25 SVG (Scalable Vector Graphics)
 
+SVG History and Browser Support
+
+Drawing with XML
+
+SVG Elements
+
+A Quick Introduction to XML
+
+Beyond Simple Shapes
+
+Features of SVG as XML
+
+Styling
+
+Adding SVG to a Page: A Refresher
+
+Interactivity with JavaScript
+
+Animation
+
+Data Visualization
+
+Accessibility
+
+SVG tools
+
+Vector Illustration Tools
+
+Code Editors
+
+SVG production tips
+
+Pre-Export Best Practices
+
+Post-Export Optimization
+
+Responsive SVGs
+
+The Viewport and Viewbox
+
+The preserveAspectRatio Attribute
+
+Responsive SVGs Embedded with img and object
+
+Responsive Inline SVGs
+
+Adaptive Icons
