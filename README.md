@@ -1048,3 +1048,39 @@ addEventListener
 
 ### 22 Using JavaScript and the Document Object Model
 
+Meet the DOM
+
+The Node Tree
+
+Accessing DOM Nodes
+
+Manipulating Nodes
+
+Adding and Removing Elements
+
+Polyfills
+
+"A shim that mimics a future API providing fallback functionality to older browsers."
+
+HTML5 shim (or shiv)
+
+Selectivizr
+
+Picturefill (A Responsive Image Polyfill)
+
+JavaScript libraries
+
+What Is Ajax?
+
+jQuery and Other Libraries
+
+How to Use jQuery
+
+Scripting with jQuery
+
+But What If I Don't Know How to Write Scripts?
+
+### 5 Web images
+
+#### 23 Web image basics
+
