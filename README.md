@@ -721,3 +721,48 @@ Importing with @import
 Using Modular Style Sheets
 
 ### 14 Thinking inside the box
+
+The element box
+
+Specifying box dimensions
+
+Sizing the Content Box
+
+Using the border-box Model
+
+"In fact, many developers simply set everything in the document to use the border-box model by setting it on the root (html) element, then setting all other elements to inherit, like this: 
+html {box-sizing: border-box;}
+*, *:before, *:after {box-sizing: inherit;}"
+
+Specifying Height
+
+Handling Overflow
+
+Padding
+
+The Shorthand padding Property
+
+Borders
+
+Border Style
+
+Border Width (Thickness)
+
+Border Color
+
+CSS Outlines
+
+Combining Style, Width, and Color
+
+Rounded Corners with border-radius
+
+Picture-Perfect Borders
+
+Margins
+
+Margin Behavior
+
+Assigning Display Types
+
+Box drop shadows
+
