@@ -850,3 +850,51 @@ Online Grid Resources
 
 ### 17 Responsive web design
 
+Why RWD?
+
+The responsive recipe
+
+Setting the Viewport
+
+Flexible Grids (Fluid Layouts)
+
+Making Images Flexible
+
+Media Query Magic
+
+Choosing breakpoints
+
+Module-Based Breakpoints
+
+Em-Based Breakpoints
+
+How Wide Is the Viewport?
+
+Designing responsively
+
+Content Hierarchy
+
+Layout
+
+Typography
+
+Navigation
+
+Images
+
+Special Content
+
+The Trouble with Tables
+
+A few words about testing
+
+Real Devices
+
+Emulators
+
+Third-Party Services
+
+More RWD resources
+
+### 18 Transitions, transforms, and animation
+
