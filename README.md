@@ -1006,3 +1006,45 @@ Git Tools and Resources
 
 ### 21 Introduction to JavaScript
 
+What is JavaScript?
+
+What It Isn't
+
+What It Is
+
+What JavaScript Can Do
+
+Adding JavaScript to a page
+
+Embedded Script
+
+External Scripts
+
+Script Placement
+
+The anatomy of a script
+
+The Basics
+
+Variables
+
+Comparison Operators
+
+if/else statements
+
+Loops
+
+Functions
+
+Variable Scope and the var Keyword
+
+Events
+
+As an HTML Attribute
+
+As a Method
+
+addEventListener
+
+### 22 Using JavaScript and the Document Object Model
+
