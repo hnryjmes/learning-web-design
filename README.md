@@ -898,3 +898,45 @@ More RWD resources
 
 ### 18 Transitions, transforms, and animation
 
+Ease-y does it (CSS transitions)
+
+Transition Basics
+
+Timing Functions
+
+Setting a Delay
+
+The Shorthand transition Property
+
+Applying Multiple Transitions
+
+A Transition for All Occasions
+
+CSS transforms
+
+Transforming the Angle (rotate)
+
+Transforming the Position (translate)
+
+Transforming the Size (scale)
+
+Making It Slanty (skew)
+
+Applying Multiple Transforms
+
+Smooth Transforms
+
+3-D Transforms
+
+Keyframe animation
+
+Establishing the Keyframes
+
+Adding Animation Properties
+
+When to Use Keyframe Animation
+
+Animation Inspectors
+
+### 19 More CSS techniques
+
