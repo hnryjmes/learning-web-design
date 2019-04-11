@@ -1084,3 +1084,93 @@ But What If I Don't Know How to Write Scripts?
 
 #### 23 Web image basics
 
+Image sources
+
+Create Your Own Images
+
+Stock Photography and Illustrations
+
+Clip Art and Icons
+
+Hire a Designer
+
+Meet the formats
+
+The Photogenic JPEG
+
+The Powerful PNG
+
+Common Color Palettes
+
+Ol' Grandpa GIF
+
+The Performant WebP
+
+Choosing the Best Bitmapped Format
+
+Image size and resolution
+
+Image Resolution
+
+Screen Resolution
+
+The Upshot
+
+Image asset strategy
+
+Can It Be Done with CSS?
+
+Can It Be an SVG?
+
+What Is the Best Bitmapped Format?
+
+Does Your Layout Require Responsive Images?
+
+Does Your Site Have a Lot of Images?
+
+Favicons
+
+Old-Fashioned Browser Favicons
+
+Full Favicon Set
+
+Icon Creation
+
+### 24 Image asset production
+
+Saving images in web formats
+
+Working with transparency
+
+How Binary Transparency Works
+
+How Alpha Transparency Works
+
+PNG-8 Alpha Transparency
+
+Making Transparent PNGs and GIFs
+
+Responsive image production tips
+
+Images for Responsive Layouts
+
+Art-Directed Images
+
+Images for High-Density Displays
+
+Viva la Automation!
+
+Image optimization
+
+General Optimization Guidelines
+
+Optimizing JPEGs
+
+“Optimizing” PNG-24
+
+Optimizing PNG-8 and GIF
+
+Optimization Tools
+
+### 25 SVG (Scalable Vector Graphics)
+
