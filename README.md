@@ -766,3 +766,43 @@ Assigning Display Types
 
 Box drop shadows
 
+### 15 Floating and positioning
+
+Normal flow
+
+Floating
+
+Floating Inline and Block elements
+
+Clearing Floated Elements
+
+Floating Multiple Elements
+
+Containing Floats
+
+Fancy text wrap with CSS shapes
+
+Using a Transparent Image
+
+Using a Path
+
+CSS Shapes Resources
+
+Positioning basics
+
+Types of Positioning
+
+Specifying Position
+
+Relative positioning
+
+Absolute positioning
+
+Containing Blocks
+
+Specifying Position
+
+Stacking Order
+
+### 16 CSS layout with flexbox and grid
+
