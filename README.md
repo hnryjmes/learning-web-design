@@ -940,3 +940,33 @@ Animation Inspectors
 
 ### 19 More CSS techniques
 
+Styling forms
+
+Styling tables
+
+Separated Borders
+
+Collapsed Borders
+
+Table Layout
+
+Table Display Properties
+
+A clean slate (reset and Normalize.css)
+
+CSS Reset
+
+Normalize.css
+
+Image replacement techniques
+
+CSS sprites
+
+CSS feature detection
+
+CSS Feature Queries (@supports)
+
+Modernizr
+
+### 20 Modern web development tools
+
