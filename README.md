@@ -970,3 +970,39 @@ Modernizr
 
 ### 20 Modern web development tools
 
+Getting cozy with the command line
+
+The Command-Line Terminal
+
+Getting Started with Commands
+
+Learning More
+
+CSS power tools (processors)
+
+Introduction to Preprocessors (Especially Sass)
+
+Introduction to Postprocessors (Mostly PostCSS)
+
+Build tools (Grunt and Gulp)
+
+Automation
+
+Some Common Tasks
+
+Grunt and Gulp
+
+Building Sites with Data and Templates
+
+Version control with Git and GitHub
+
+Why Use Git
+
+How Git Works
+
+Git Tools and Resources
+
+### 4 JavaScript for behavior
+
+### 21 Introduction to JavaScript
+
